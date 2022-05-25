@@ -1,1 +1,9 @@
 Algo
+
+1. Decide which pizza place to order from
+2. Call the Pizza place
+3. Order what you want, as long as it's not pineapple*
+4. Drive to the pizza place
+5. Pay the cashier
+6. Take the Pizza
+7. Eat the Pizza
