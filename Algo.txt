@@ -7,3 +7,4 @@ Algo
 5. Pay the cashier
 6. Take the Pizza
 7. Eat the Pizza
+8. Have fun
